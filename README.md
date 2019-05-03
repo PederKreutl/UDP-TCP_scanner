@@ -11,13 +11,13 @@ Cieľom projektu bolo vytvoriť sieťový TCP, UDP skener. Činnosť programu sp
   ***`$ ./ipk-scan -h`***
 
 ## Výstup:
-  ***`Interesting ports on localhost (127.0.0.1):\
-  PORT     STATE\
-  21/tcp	 closed\
-  22/tcp 	 open\
-  143/tcp	 filtered\
-  53/udp	 closed\
-  67/udp	 open`***
+  ***`Interesting ports on localhost (127.0.0.1):`***\
+  ***`PORT     STATE`***\
+  ***`21/tcp	 closed`***\
+  ***`22/tcp 	 open`***\
+  ***`143/tcp	 filtered`***\
+  ***`53/udp	 closed`***\
+  ***`67/udp	 open`***
 
 ## Výstupne kódy:
   0 - Uspesne spustenie programu\
