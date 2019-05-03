@@ -20,9 +20,9 @@ Cieľom projektu bolo vytvoriť sieťový TCP, UDP skener. Činnosť programu sp
   ***`67/udp	 open`***
 
 ## Výstupne kódy:
-  0 - Uspesne spustenie programu\
-  1 - Chybne spustenie programu\
-  2 - Interna chyba v programe
+  0 - Úspešné spustenie programu\
+  1 - Chybné spustenie programu\
+  2 - Interná chyba v programe
 
 ## Autor:
   Peter Kruty, <xkruty00@stud.fit.vutbr.cz>
